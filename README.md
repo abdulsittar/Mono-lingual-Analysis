@@ -19,5 +19,6 @@ For  analysis  of  information  spreading  in  mono-lingual  settings,  we  perf
 git clone https://github.com/abdulsittar/Mono-lingual-Analysis.git
 cd Mono-lingual-Analysis
 
+python -m http.server
 ```
 
