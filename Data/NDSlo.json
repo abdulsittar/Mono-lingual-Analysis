@@ -1,0 +1,162 @@
+{
+ "links": [
+  {
+   "source": 1,
+   "target": 13,
+   "value": 0.257
+  },
+  {
+   "source": 2,
+   "target": 1,
+   "value": 0.33399999999999996
+  },
+  {
+   "source": 3,
+   "target": 2,
+   "value": 0.4
+  },
+  {
+   "source": 4,
+   "target": 3,
+   "value": 0.517
+  },
+  {
+   "source": 5,
+   "target": 4,
+   "value": 0.33899999999999997
+  },
+  {
+   "source": 6,
+   "target": 5,
+   "value": 0.402
+  },
+  {
+   "source": 7,
+   "target": 3,
+   "value": 0.182
+  },
+  {
+   "source": 8,
+   "target": 1,
+   "value": 0.311
+  },
+  {
+   "source": 9,
+   "target": 15,
+   "value": 0.203
+  },
+  {
+   "source": 10,
+   "target": 2,
+   "value": 0.395
+  },
+  {
+   "source": 13,
+   "target": 11,
+   "value": 0.29
+  },
+  {
+   "source": 14,
+   "target": 13,
+   "value": 0.127
+  },
+  {
+   "source": 15,
+   "target": 12,
+   "value": 0.242
+  },
+  {
+   "source": 16,
+   "target": 11,
+   "value": 0.214
+  },
+  {
+   "source": 17,
+   "target": 16,
+   "value": 1.0
+  },
+  {
+   "source": 18,
+   "target": 15,
+   "value": 0.233
+  }
+ ],
+ "nodes": [
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene0"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene1"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene2"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene3"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene4"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene5"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene6"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene7"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene8"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene9"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene10"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene11"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene12"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene13"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene14"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene15"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene16"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene17"
+  },
+  {
+   "group": 4,
+   "name": "Earth_Quake_Slovene18"
+  }
+ ]
+}

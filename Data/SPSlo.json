@@ -1,0 +1,90 @@
+{
+ "links": [
+  {
+   "source": 1,
+   "target": 0,
+   "value": 0.33899999999999997
+  },
+  {
+   "source": 3,
+   "target": 0,
+   "value": 0.16
+  },
+  {
+   "source": 4,
+   "target": 2,
+   "value": 0.19699999999999998
+  },
+  {
+   "source": 5,
+   "target": 0,
+   "value": 0.271
+  },
+  {
+   "source": 6,
+   "target": 2,
+   "value": 0.26899999999999996
+  },
+  {
+   "source": 7,
+   "target": 6,
+   "value": 0.27
+  },
+  {
+   "source": 8,
+   "target": 6,
+   "value": 0.39799999999999996
+  },
+  {
+   "source": 9,
+   "target": 8,
+   "value": 0.228
+  }
+ ],
+ "nodes": [
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene0"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene1"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene2"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene3"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene4"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene5"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene6"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene7"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene8"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene9"
+  },
+  {
+   "group": 2,
+   "name": "FIFA_World_Cup_Slovene10"
+  }
+ ]
+}

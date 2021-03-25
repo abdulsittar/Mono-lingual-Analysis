@@ -1,0 +1,73 @@
+{
+ "links": [
+  {
+   "source": 1,
+   "target": 0,
+   "value": 0.355
+  },
+  {
+   "source": 2,
+   "target": 1,
+   "value": 0.322
+  },
+  {
+   "source": 3,
+   "target": 1,
+   "value": 0.304
+  },
+  {
+   "source": 4,
+   "target": 3,
+   "value": 1.0
+  },
+  {
+   "source": 5,
+   "target": 1,
+   "value": 0.29100000000000004
+  },
+  {
+   "source": 6,
+   "target": 5,
+   "value": 0.315
+  },
+  {
+   "source": 7,
+   "target": 0,
+   "value": 0.299
+  }
+ ],
+ "nodes": [
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene0"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene1"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene2"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene3"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene4"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene5"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene6"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene7"
+  }
+ ]
+}

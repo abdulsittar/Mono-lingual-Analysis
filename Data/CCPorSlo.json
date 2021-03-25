@@ -1,0 +1,921 @@
+{
+ "links": [
+  {
+   "source": 1,
+   "target": 88,
+   "value": 0.992
+  },
+  {
+   "source": 2,
+   "target": 1,
+   "value": 0.9990000000000001
+  },
+  {
+   "source": 3,
+   "target": 22,
+   "value": 0.35
+  },
+  {
+   "source": 4,
+   "target": 88,
+   "value": 0.34600000000000003
+  },
+  {
+   "source": 5,
+   "target": 22,
+   "value": 0.307
+  },
+  {
+   "source": 6,
+   "target": 5,
+   "value": 0.9590000000000001
+  },
+  {
+   "source": 7,
+   "target": 66,
+   "value": 0.195
+  },
+  {
+   "source": 8,
+   "target": 22,
+   "value": 0.341
+  },
+  {
+   "source": 9,
+   "target": 0,
+   "value": 0.385
+  },
+  {
+   "source": 10,
+   "target": 22,
+   "value": 0.40299999999999997
+  },
+  {
+   "source": 11,
+   "target": 0,
+   "value": 0.292
+  },
+  {
+   "source": 12,
+   "target": 9,
+   "value": 0.307
+  },
+  {
+   "source": 14,
+   "target": 9,
+   "value": 0.371
+  },
+  {
+   "source": 15,
+   "target": 14,
+   "value": 0.546
+  },
+  {
+   "source": 16,
+   "target": 14,
+   "value": 0.738
+  },
+  {
+   "source": 17,
+   "target": 14,
+   "value": 0.37
+  },
+  {
+   "source": 18,
+   "target": 0,
+   "value": 0.402
+  },
+  {
+   "source": 19,
+   "target": 17,
+   "value": 0.9990000000000001
+  },
+  {
+   "source": 20,
+   "target": 17,
+   "value": 0.9520000000000001
+  },
+  {
+   "source": 21,
+   "target": 19,
+   "value": 1.0
+  },
+  {
+   "source": 22,
+   "target": 0,
+   "value": 0.385
+  },
+  {
+   "source": 23,
+   "target": 21,
+   "value": 1.0
+  },
+  {
+   "source": 25,
+   "target": 17,
+   "value": 1.0
+  },
+  {
+   "source": 26,
+   "target": 9,
+   "value": 0.373
+  },
+  {
+   "source": 27,
+   "target": 10,
+   "value": 0.327
+  },
+  {
+   "source": 28,
+   "target": 10,
+   "value": 0.38
+  },
+  {
+   "source": 29,
+   "target": 26,
+   "value": 0.429
+  },
+  {
+   "source": 30,
+   "target": 14,
+   "value": 0.34600000000000003
+  },
+  {
+   "source": 31,
+   "target": 26,
+   "value": 0.319
+  },
+  {
+   "source": 32,
+   "target": 31,
+   "value": 0.583
+  },
+  {
+   "source": 33,
+   "target": 0,
+   "value": 0.28300000000000003
+  },
+  {
+   "source": 34,
+   "target": 32,
+   "value": 0.49200000000000005
+  },
+  {
+   "source": 35,
+   "target": 0,
+   "value": 0.38799999999999996
+  },
+  {
+   "source": 36,
+   "target": 26,
+   "value": 0.41100000000000003
+  },
+  {
+   "source": 37,
+   "target": 35,
+   "value": 0.254
+  },
+  {
+   "source": 38,
+   "target": 37,
+   "value": 0.627
+  },
+  {
+   "source": 39,
+   "target": 38,
+   "value": 1.0
+  },
+  {
+   "source": 40,
+   "target": 41,
+   "value": 1.0
+  },
+  {
+   "source": 41,
+   "target": 40,
+   "value": 1.0
+  },
+  {
+   "source": 42,
+   "target": 38,
+   "value": 1.0
+  },
+  {
+   "source": 43,
+   "target": 36,
+   "value": 0.385
+  },
+  {
+   "source": 44,
+   "target": 22,
+   "value": 0.33899999999999997
+  },
+  {
+   "source": 45,
+   "target": 26,
+   "value": 0.369
+  },
+  {
+   "source": 46,
+   "target": 66,
+   "value": 0.21899999999999997
+  },
+  {
+   "source": 47,
+   "target": 43,
+   "value": 0.40299999999999997
+  },
+  {
+   "source": 48,
+   "target": 47,
+   "value": 0.306
+  },
+  {
+   "source": 49,
+   "target": 0,
+   "value": 0.313
+  },
+  {
+   "source": 50,
+   "target": 23,
+   "value": 0.397
+  },
+  {
+   "source": 51,
+   "target": 50,
+   "value": 0.44
+  },
+  {
+   "source": 52,
+   "target": 51,
+   "value": 0.517
+  },
+  {
+   "source": 53,
+   "target": 52,
+   "value": 0.478
+  },
+  {
+   "source": 54,
+   "target": 52,
+   "value": 0.9259999999999999
+  },
+  {
+   "source": 55,
+   "target": 44,
+   "value": 0.43200000000000005
+  },
+  {
+   "source": 56,
+   "target": 50,
+   "value": 0.35
+  },
+  {
+   "source": 57,
+   "target": 53,
+   "value": 0.632
+  },
+  {
+   "source": 58,
+   "target": 57,
+   "value": 0.9209999999999999
+  },
+  {
+   "source": 59,
+   "target": 47,
+   "value": 0.39299999999999996
+  },
+  {
+   "source": 60,
+   "target": 14,
+   "value": 0.27699999999999997
+  },
+  {
+   "source": 61,
+   "target": 60,
+   "value": 1.0
+  },
+  {
+   "source": 62,
+   "target": 52,
+   "value": 0.303
+  },
+  {
+   "source": 63,
+   "target": 0,
+   "value": 0.33
+  },
+  {
+   "source": 64,
+   "target": 63,
+   "value": 0.9640000000000001
+  },
+  {
+   "source": 65,
+   "target": 22,
+   "value": 0.35700000000000004
+  },
+  {
+   "source": 66,
+   "target": 44,
+   "value": 0.778
+  },
+  {
+   "source": 67,
+   "target": 64,
+   "value": 0.275
+  },
+  {
+   "source": 68,
+   "target": 67,
+   "value": 1.0
+  },
+  {
+   "source": 69,
+   "target": 47,
+   "value": 0.409
+  },
+  {
+   "source": 70,
+   "target": 66,
+   "value": 0.36
+  },
+  {
+   "source": 71,
+   "target": 70,
+   "value": 0.807
+  },
+  {
+   "source": 72,
+   "target": 71,
+   "value": 0.992
+  },
+  {
+   "source": 73,
+   "target": 71,
+   "value": 0.963
+  },
+  {
+   "source": 74,
+   "target": 69,
+   "value": 0.307
+  },
+  {
+   "source": 75,
+   "target": 69,
+   "value": 0.39399999999999996
+  },
+  {
+   "source": 76,
+   "target": 47,
+   "value": 0.267
+  },
+  {
+   "source": 77,
+   "target": 66,
+   "value": 0.925
+  },
+  {
+   "source": 78,
+   "target": 69,
+   "value": 0.27399999999999997
+  },
+  {
+   "source": 79,
+   "target": 69,
+   "value": 0.245
+  },
+  {
+   "source": 81,
+   "target": 10,
+   "value": 0.39899999999999997
+  },
+  {
+   "source": 82,
+   "target": 47,
+   "value": 0.315
+  },
+  {
+   "source": 83,
+   "target": 69,
+   "value": 0.374
+  },
+  {
+   "source": 85,
+   "target": 69,
+   "value": 0.33
+  },
+  {
+   "source": 86,
+   "target": 85,
+   "value": 0.45399999999999996
+  },
+  {
+   "source": 87,
+   "target": 86,
+   "value": 0.9570000000000001
+  },
+  {
+   "source": 88,
+   "target": 77,
+   "value": 1.0
+  },
+  {
+   "source": 89,
+   "target": 22,
+   "value": 0.374
+  },
+  {
+   "source": 90,
+   "target": 81,
+   "value": 0.37200000000000005
+  },
+  {
+   "source": 91,
+   "target": 14,
+   "value": 0.272
+  },
+  {
+   "source": 92,
+   "target": 69,
+   "value": 0.35200000000000004
+  },
+  {
+   "source": 93,
+   "target": 70,
+   "value": 0.319
+  },
+  {
+   "source": 94,
+   "target": 14,
+   "value": 0.344
+  },
+  {
+   "source": 95,
+   "target": 94,
+   "value": 0.9620000000000001
+  },
+  {
+   "source": 96,
+   "target": 66,
+   "value": 0.27899999999999997
+  },
+  {
+   "source": 98,
+   "target": 97,
+   "value": 0.355
+  },
+  {
+   "source": 99,
+   "target": 98,
+   "value": 0.322
+  },
+  {
+   "source": 100,
+   "target": 98,
+   "value": 0.304
+  },
+  {
+   "source": 101,
+   "target": 100,
+   "value": 1.0
+  },
+  {
+   "source": 102,
+   "target": 98,
+   "value": 0.29100000000000004
+  },
+  {
+   "source": 103,
+   "target": 102,
+   "value": 0.315
+  },
+  {
+   "source": 104,
+   "target": 97,
+   "value": 0.299
+  }
+ ],
+ "nodes": [
+  {
+   "group": 3,
+   "name": "Global_Warming_Por0"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por1"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por2"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por3"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por4"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por5"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por6"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por7"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por8"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por9"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por10"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por11"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por12"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por13"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por14"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por15"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por16"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por17"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por18"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por19"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por20"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por21"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por22"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por23"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por24"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por25"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por26"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por27"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por28"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por29"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por30"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por31"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por32"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por33"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por34"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por35"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por36"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por37"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por38"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por39"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por40"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por41"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por42"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por43"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por44"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por45"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por46"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por47"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por48"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por49"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por50"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por51"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por52"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por53"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por54"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por55"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por56"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por57"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por58"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por59"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por60"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por61"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por62"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por63"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por64"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por65"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por66"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por67"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por68"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por69"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por70"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por71"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por72"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por73"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por74"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por75"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por76"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por77"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por78"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por79"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por80"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por81"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por82"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por83"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por84"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por85"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por86"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por87"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por88"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por89"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por90"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por91"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por92"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por93"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por94"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por95"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por96"
+  },
+  {
+   "group": 3,
+   "name": "Global_Warming_Por97"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene98"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene99"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene100"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene101"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene102"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene103"
+  },
+  {
+   "group": 4,
+   "name": "Global_Warming_Slovene104"
+  }
+ ]
+}
