@@ -10,10 +10,13 @@ For  analysis  of  information  spreading  in  mono-lingual  settings,  we  perf
 - Portuguese
 - Slovene
 
+## Data
+- [Data](https://zenodo.org/record/4117411)
+
 ## How to run
 ``` bash
 # clone the repository
-git clone https://github.com/cleopatra-itn/TIME.git
+git clone https://github.com/abdulsittar/Mono-lingual-Analysis.git
 cd Mono-lingual-Analysis
 
 ```
